@@ -1,0 +1,11 @@
+{
+  "name": "javascriptcardio",
+  "version": "1.0.0",
+  "description": "javascript critical thinking functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Israel Nnaji | Brad Traversy",
+  "license": "ISC"
+}
